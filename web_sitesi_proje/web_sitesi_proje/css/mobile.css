@@ -1,0 +1,47 @@
+@media screen and (min-width:1200px) and (max-width:1399px){
+
+}
+
+@media screen and (min-width:992px) and (max-width:1199px){
+
+}
+
+@media screen and (min-width:768px) and (max-width:991px){
+
+}
+
+@media screen and (min-width:576px) and (max-width:767px){
+  .anasayfaurunAlani .card,.urunSatirlari .card{
+    margin-bottom:15px;
+  }
+  .anasayfaurunYazilari{
+    border:none;
+    padding-right:0;
+  }
+  .icSayfaFotograf{
+    width:100%;
+  }
+  .icSayfaFotograf img{
+      margin:0 auto 0 auto;
+      display:table;
+  }
+  .altBolumAlanlar{
+    margin-bottom:25px;
+  }
+}
+
+@media screen and (max-width:575px){
+  .anasayfaurunAlani .card,.urunSatirlari .card{
+    margin-bottom:15px;
+  }
+  .anasayfaurunYazilari{
+    border:none;
+    padding-right:0;
+  }
+  .icSayfaFotograf img{
+      width:100%;
+  }
+  .altBolumAlanlar{
+    margin-bottom:25px;
+  }
+}

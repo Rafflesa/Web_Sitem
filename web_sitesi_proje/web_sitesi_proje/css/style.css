@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+*{
+  font-family: 'Roboto', sans-serif;
+  /* background-color:rgb(168, 164, 152); */
+}
+body {
+  background-color: rgb(255, 212, 141);
+}
+/* p {
+  background-color: rgb(224, 209, 159);
+} */
+.navbar-collapse.anaMenu{
+  flex-grow:initial;
+}
+.logoFotograf{
+  width:180px;
+}
+.ustMenuAlani{
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.BaslikSunucu {
+  color:rgb(170, 135, 79);
+  font-size:40px;
+  margin-top: 60px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+.nav-link {
+  font-weight: bold;
+  /* font-size: 17px; */
+}
+.MagazaBaslik{
+  color:black;
+  margin-bottom:15px;
+}
+.anasayfaurunAlani{
+  margin-top:25px;
+  margin-bottom:35px;
+}
+.sunucuKucukYazi{
+  margin-bottom:20px;
+  font-size:14px;
+}
+.sagMenu{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+.sagMenu li{
+  list-style-type:none;
+  margin-bottom:10px;
+  font-weight:700;
+  font-size:18px;
+}
+.sagMenu li a{
+  text-decoration:none;
+  color:black;
+  font-weight:700;
+  font-size:18px;
+}
+.sagMenu li a:hover{
+  color:red;
+}
+.anasayfaurunYazilari{
+  border-right:1px solid gray;
+  padding-right:15px;
+}
+.tumHaklariSaklidirAlani{
+  margin-top:40px;
+  border-top:1px solid gray;
+  padding-top:25px;
+}
+.tumHaklariSaklidir{
+  padding:10px 0 10px 0;
+  text-align:center;
+  font-size:18px;
+}
+.hakkimizdaYaziAlani{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.icSayfaFotograf{
+  float:left;
+  margin:0 15px 15px 0;
+}
+.icSayfaFotograf img{
+  width:400px;
+}
+.genelBaslik{
+  /*font-size:22px;*/
+  color:black;
+  margin-bottom:20px;
+}
+.urunSatirlari{
+  margin-bottom:25px;
+}
+.ozelLinkliAlan{
+  text-decoration:none;
+  color:black;
+}
+.ozelLinkliAlan:hover{
+  color:red;
+}
+.iletisimBilgileri{
+  margin-top:20px;
+}
+.yeniLinaRoleplayAlan{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.navigasyonAraMenu a{
+  color:black;
+  text-decoration:none;
+  font-weight:700;
+}
+.footerAlaniYazisi{
+  font-size:14px;
+  margin-top:15px;
+}
+.tumHaklariSaklidirAlani h3{
+  border-bottom:1px solid gray;
+  padding-bottom:10px;
+  margin-bottom:10px;
+}
